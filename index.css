@@ -1,0 +1,37 @@
+
+.title{
+	position: absolute;
+	right: -15%;
+	top: 24%;
+	font-family: futura;
+	font-size: 145px;
+	color: #ED1B25;
+	transform: rotate(90deg);
+}
+
+.box{
+	position: absolute;
+	top: 16%;
+	left: 10%;
+	width: 50%;
+	height: 50%;
+	z-index: 2;
+}
+
+.box2{
+	position: absolute;
+	top: 21%;
+	left: 55%;
+	width: 5%;
+	height: 20%;
+	z-index: 2;
+}
+
+.box3{
+	position: absolute;
+	top: 16%;
+	left: 30%;
+	width: 20%;
+	height: 66%;
+	z-index: 2;
+}
